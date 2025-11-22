@@ -1,3 +1,3 @@
 # Github-Workshop
 For Training
-IDIOT
+IDIOT (TAUSI)
