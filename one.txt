@@ -1,2 +1,7 @@
 one two three
+<<<<<<< HEAD
 Changes made by dhana
+=======
+
+four five six
+>>>>>>> a9ce02446a4a7396998c3b6554056dfdb0296050
